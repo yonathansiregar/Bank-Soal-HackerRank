@@ -1,0 +1,36 @@
+Silvy adalah salah satu mahasiswa di FILKOM. Seperti layaknya salah seorang mahasiswa, setiap akhir semester dia menerima Kartu Hasil Studi yang berisi nilai akhir dari perkuliahan selama satu semester. Sebagai mahasiswa yang rajin, Silvy ingin mencoba membuat program yang dapat menghitung nilai IP berdasarkan nilai per mata kuliah serta dapat menampilkannya dalam bentuk KHS.
+Rumus IP = (Bobot Nilai x SKS) + (Bobot Nilai x SKS) / Total SKS
+
+Input Format
+Nama Mata Kuliah(dibatasi maksimal 23 huruf)_Bobot Nilai_SKS. Contoh :
+
+Matematika Komputasi_4_4
+Pemrograman Dasar_3_5
+
+Constraints
+-
+
+Output Format
+
+          KARTU HASIL STUDI          
+=====================================
+MATA KULIAH             NILAI     SKS
+MATEMATIKA KOMPUTASI        4       4
+PEMROGRAMAN DASAR           3       5
+=====================================
+IP                       3.44        
+NB : IP dibulatkan menjadi maksimal 2 angka di belakang koma
+
+Sample Input 0
+Matematika Komputasi_4_4
+Pemrograman Dasar_3_5
+
+Sample Output 0
+
+          KARTU HASIL STUDI          
+=====================================
+MATA KULIAH             NILAI     SKS
+MATEMATIKA KOMPUTASI        4       4
+PEMROGRAMAN DASAR           3       5
+=====================================
+IP                       3.44   
