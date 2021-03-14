@@ -1,0 +1,17 @@
+Di salah satu mata kuliah, dosen mengatakan bahwa untuk setiap 1 bulan beliau akan mengadakan kuis. Buatlah program yang menghitung berapa banyak kuis yang diadakan oleh dosen tersebut.
+NB : Asumsikan 1 bulan = 30 hari
+
+Input Format
+Jumlah hari
+
+Constraints
+-
+
+Output Format
+(hasil) kali kuis
+
+Sample Input 0
+30
+
+Sample Output 0
+1 kali kuis
