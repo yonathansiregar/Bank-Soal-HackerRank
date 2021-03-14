@@ -1,0 +1,31 @@
+Septia merupakan mahasiswa di Universitas Brawijaya. Karena hobi begadang, dia sering telat bangun sehingga harus berlari ke kampus agar tidak telat mengikuti kuliah. 
+Untuk mengatasi hal tersebut, Septia mempunyai ide untuk membuat program yang menerima input kecepatan awal dan akhir berlari, kemudian memberikan output apakah dia akan telat atau tidak. 
+Jarak kos Septia ke kampus adalah 4.5 km. Asumsikan Septia berangkat pukul 6.50 dan kelas mulai pada pukul 7.00. Apabila belum melebihi jam 7.00, maka dianggap tidak telat.
+
+NB :
+- Rumus Perpindahan : S = 0.5 x (u+v) x t
+- Selesaikan soal tanpa menggunakan seleksi kondisi
+
+Input Format
+Kecepatan awal (dalam m/s)
+Kecepatan akhir (dalam m/s)
+
+Constraints
+-
+
+Output Format
+true apabila telat, false apabila tidak telat
+
+Sample Input 0
+10.0
+15.5
+
+Sample Output 0
+false
+
+Sample Input 1
+5.5
+4.3
+
+Sample Output 1
+true
