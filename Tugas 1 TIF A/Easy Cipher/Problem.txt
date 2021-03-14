@@ -1,0 +1,28 @@
+Aul berencana untuk PDKT dengan gebetannya melalui pesan singkat. Karena gebetannya merupakan anak FILKOM, Aul ingin terlihat keren dengan menulis pesan tersebut menggunakan Caesar Cipher. Caesar Cipher adalah suatu enkripsi yang mengubah huruf sesuai dengan perpindahan. Karena malas melakukan enkripsi sendiri, Aul pun memutuskan untuk membuat program yang dapat mengenkripsi pesannya.
+
+Input Format
+2 (Angka Perpindahan)
+A B (Dua huruf yang akan di enkripsi, dipisahkan oleh spasi. Hint : Gunakan Delimiter, dapat dicari di internet)
+
+Constraints
+-
+
+Output Format
+C
+D
+
+Sample Input 0
+2
+A B
+
+Sample Output 0
+C
+D
+
+Sample Input 1
+5
+D F
+
+Sample Output 1
+I
+K
